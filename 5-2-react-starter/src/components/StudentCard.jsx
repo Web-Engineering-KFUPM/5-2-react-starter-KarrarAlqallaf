@@ -1,8 +1,8 @@
-function StudentCard(){
+function StudentCard(props){
     return (<div>
-        <h3>YOUR_NAME</h3>
-        <p>YOUR_STUDENT_ID</p>
-        <p>YOUR_DEPARTMENT_NAME</p>
+            <h3>Name: {props.name}</h3>
+            <p>Student ID: {props.id}</p>
+            <p>Department: {props.dept}</p>
     </div>
     );
 }

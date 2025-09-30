@@ -11,10 +11,11 @@ function App() {
 
       <main className="dashboard-main">
         <div className="cards-container">
-                  <div>
-                      <h1>Student Info</h1>
-                      <StudentCard />
-                  </div>
+          <div>
+              <h1>Student Info</h1>
+              <StudentCard name="Karrar" id="202267840" dept="ICS" />
+              <StudentCard name="ALI" id="2022xxxxx" dept="SWE" />
+          </div>
         </div>
       </main>
     </div>
