@@ -21,7 +21,7 @@ Note: For this lab the project (vite + react) is already created, the above setu
 
 3. Inside the project folder, go to src and create a new folder called:
 
-   src/components
+   src/https://github.com/Web-Engineering-KFUPM/5-2-react-starter-KarrarAlqallaf
 
 All your new components will go inside this folder.
 
